@@ -5,9 +5,9 @@ if hello== "yes":
 else:
     no= raw_input('I guess we can stay here then. Your door flies off and you fly out the door into a black hole looking thing')
 
-oh= raw_input('You fall into a pit  and  wonder why i'm here and what happened and "who am I?"')
+oh= raw_input('You fall into a pit  and  wonder why i\'m here and what happened and who am I?')
 who= raw_input("Who am I?")
-print "oh ok so I'm",who
+print "oh ok so I'm", who
 to= raw_input ('I need to find my way out of here ummmmmm "where should i go?"')
 whu= raw_input('where should I go? "left" or "right"')
 
@@ -29,5 +29,5 @@ if sword== "proceed":
 elif sword== "mine":
     mine= raw_input('you mine then find a fire staff and head into a cave where your fate lies')
 
-print who, “are you ready for what lies ahead”
+print who, "are you ready for what lies ahead"
 
